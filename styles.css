@@ -4,7 +4,7 @@ body, html {
 }
 
 .title-image {
-    background-image: url(../image/table.jpg);
+    background-image: "../image/table.jpg";
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
